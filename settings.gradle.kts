@@ -12,4 +12,4 @@ plugins {
 }
 
 rootProject.name = "mini-q"
-include("lib")
+include("mini-q-core")
